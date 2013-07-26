@@ -9,7 +9,7 @@ Abacomps
 <div class="slider-inner">
     <div id="da-slider" class="da-slider">
         <div class="da-slide">
-            <h2><i>UNIQUE</i> <br /> <i>FUN &amp; HOLISTIC</i> <br /> <i>LEARNING PROGRAM</i></h2>
+            <h2><i>UNIQUE</i> <br /> <i>&amp; FUN</i> <br /> <i>LEARNING PROGRAM</i></h2>
             <p><i>Afterschool development program</i> <br /> <i>that uses an Abacus</i> <br /> <i>to do mental math</i></p>
             <div class="da-img"><img src="assets/img/178.jpg" alt="" /></div>
         </div>
@@ -41,8 +41,8 @@ Abacomps
 <div class="row-fluid purchase margin-bottom-30">
     <div class="container">
 		<div class="span9">
-            <span>Abacomps is a mental math program for children</span>
-            <p>When a child thinks of numbers in the form of beads, they trigger whole brain development. By imagining beads in their head perform calculations, this combines the left brain activity of thinking of numbers with the right brain activity of imagining beads.</p>
+            <span>Unlock the full potential of your child's mind with the Abacus!</span>
+            <p>The ABACOMPS program is designed to help your child advance their skills in both Mathematics, Computers, and general Memorization and Retention.</p>
         </div>
         <a href="#" class="btn-buy hover-effect">Sign up now</a>
     </div>
@@ -75,7 +75,7 @@ Abacomps
     		<div class="service clearfix">
                 <i class="icon-plane"></i>
     			<div class="desc">
-    				<h4>Child Care</h4>
+    				<h4>School Pick-Up</h4>
                     <p>We offer weekly programs, after school care, and summer camps. We transport from local elementary schools to pick up your children and get them here on time for Abacus class. We've got you covered!</p>
     			</div>
     		</div>	

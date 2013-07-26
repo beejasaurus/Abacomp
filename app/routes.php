@@ -26,6 +26,11 @@ Route::get('about/faqs', function()
 	return View::make('about/faqs');
 });
 
+Route::get('about/who', function()
+{
+	return View::make('about/who');
+});
+
 Route::get('about/gallery', function()
 {
 	return View::make('about/gallery');
@@ -86,69 +91,4 @@ Route::get('login', function()
 	return View::make('login');
 });
 
-// --------------- Grey alternate page ------------------------ //
 
-Route::get('alt', function()
-{
-	return View::make('alt/home2');
-});
-
-Route::get('alt/about', function()
-{
-	return View::make('alt/about/about');
-});
-
-Route::get('alt/about/faqs', function()
-{
-	return View::make('alt/about/faqs');
-});
-
-Route::get('alt/about/gallery', function()
-{
-	return View::make('alt/about/gallery');
-});
-
-Route::get('alt/programs', function()
-{
-	return View::make('alt/programs/programs');
-});
-
-Route::get('alt/programs/pricing', function()
-{
-	return View::make('alt/programs/pricing');
-});
-
-Route::get('alt/programs/registration', function()
-{
-	return View::make('alt/programs/registration');
-});
-
-Route::get('alt/learning', function()
-{
-	return View::make('alt/learning/learning');
-});
-
-Route::get('alt/learning/lessons', function()
-{
-	return View::make('alt/learning/lessons');
-});
-
-Route::get('alt/learning/practice', function()
-{
-	return View::make('alt/learning/practice');
-});
-
-Route::get('alt/learning/tests', function()
-{
-	return View::make('alt/learning/tests');
-});
-
-Route::get('alt/store', function()
-{
-	return View::make('alt/store');
-});
-
-Route::get('alt/contact', function()
-{
-	return View::make('alt/contact');
-});

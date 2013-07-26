@@ -29,9 +29,9 @@ Practice Games - Abacomps
             <div class="sort" id="sort">
 				<ul class="unstyled inline">
                 	<li><a href="#" class="all selected">All</a></li>
-                	<li><a href="#" class="web">Web</a></li>
-                	<li><a href="#" class="ios">iOS</a></li>
-                	<li><a href="#" class="print">Print</a></li>
+                	<li><a href="#" class="web">Addition &amp; Subtraction</a></li>
+                	<li><a href="#" class="ios">Multiplication &amp; Division</a></li>
+                	<li><a href="#" class="print">Mixed</a></li>
                 </ul>
             </div>
             
@@ -40,8 +40,8 @@ Practice Games - Abacomps
                     <a href="{{ URL::to('learning/practice/game1') }}">
                     	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/2.jpg') }}" alt="" /></em>
                         <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
+                            <strong>Addition</strong>
+                            <i>Level 1</i>
                         </span>
                     </a>
                 </li>

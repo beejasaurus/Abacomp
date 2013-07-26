@@ -12,12 +12,12 @@ Practice Games - Abacomps
 <!--=== Breadcrumbs ===-->
 <div class="breadcrumbs margin-bottom-40">
 	<div class="container">
-        <h1 class="color-green pull-left">Game 1 Name</h1>
+        <h1 class="color-green pull-left">Addition - Level 1</h1>
         <ul class="pull-right breadcrumb">
             <li><a href="{{ URL::to('/')}}">Home</a> <span class="divider">/</span></li>
             <li><a href="{{ URL::to('learning')}}">Learning Center</a> <span class="divider">/</span></li>
             <li><a href="{{ URL::to('learning/practice')}}">Practice Games</a> <span class="divider">/</span></li>
-            <li class="active">Game 1 Name</li>
+            <li class="active">Addition - Level 1</li>
         </ul>
     </div><!--/container-->
 </div><!--/breadcrumbs-->
@@ -61,7 +61,7 @@ Practice Games - Abacomps
         <!-- //End Tabs and Carousel -->
         
         <div class="span5">
-        	<h3>Game 1 Name</h3>
+        	<h3>Addition - Level 1</h3>
             <p>Description of game and what it teaches at vero eos et accusamus et iusto odio dignissimos <a href="#">ducimus qui blanditiis</a> praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum Fusce condimentum eleifend enim a feugiat. Pellentesque viverra vehicula sem ut volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna. Sed et quam lacus.</p>
             <p>Molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Ut non libero consectetur adipiscing elit magna. Sed et quam lacus.</p>
             <ul class="unstyled">
@@ -70,7 +70,7 @@ Practice Games - Abacomps
             	<li><i class="icon-user color-green"></i> Bryan Neva [Current High Score Holder]</li>
             	<li><i class="icon-tags color-green"></i> Counting, Bead Visualization, Speed [Keyword Tags]</li>
             </ul>
-            <p><a class="btn-u btn-u-large" href="#">PLAY GAME 1 NAME</a></p>
+            <p><a href="{{ asset('assets/games/adding_game/index.html') }}" class="btn-u btn-u-large" href="#">PLAY Addition - Level 1</a></p>
         </div>
     </div><!--/row-fluid-->
 

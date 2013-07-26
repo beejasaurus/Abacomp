@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="46" version="2.0">
+<workbenchAdvisor/>
+<window height="860" maximized="true" width="1200" x="230" y="-8">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="137" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="168" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="91" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.aptana.editor.html" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.css" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.php" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1373134826153" focus="true" label="Workspace - Web">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.aptana.editor.php" name="master.blade.php" partName="master.blade.php" title="master.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\master.blade.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/xampp/htdocs/abacomps/app/views/master.blade.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="7906" selectionTopPixel="1230"/>
+</editor>
+<editor id="com.aptana.editor.php" name="routes.php" partName="routes.php" title="routes.php" tooltip="C:\xampp\htdocs\abacomps\app\routes.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/xampp/htdocs/abacomps/app/routes.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1671" selectionTopPixel="747"/>
+</editor>
+<editor id="com.aptana.editor.php" name="contact.blade.php" partName="contact.blade.php" title="contact.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\contact.blade.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/xampp/htdocs/abacomps/app/views/contact.blade.php"/>
+<editorState selectionHorizontalPixel="112" selectionLength="0" selectionOffset="1894" selectionTopPixel="270"/>
+</editor>
+<editor id="com.aptana.editor.php" name="practice.blade.php" partName="practice.blade.php" title="practice.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\learning\practice.blade.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/xampp/htdocs/abacomps/app/views/learning/practice.blade.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3860" selectionTopPixel="2112"/>
+</editor>
+<editor id="com.aptana.editor.html" name="page_login.html" partName="page_login.html" title="page_login.html" tooltip="C:\Users\shirges\Documents\Bryan\WebDev\WrapBootstrap\Unity\products_WB0412697\HTML\page_login.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/shirges/Documents/Bryan/WebDev/WrapBootstrap/Unity/products_WB0412697/HTML/page_login.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="919" selectionOffset="11867" selectionTopPixel="2880"/>
+</editor>
+<editor activePart="true" focus="true" id="com.aptana.editor.php" name="login.blade.php" partName="login.blade.php" title="login.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\login.blade.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/xampp/htdocs/abacomps/app/views/login.blade.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="686" selectionTopPixel="191"/>
+</editor>
+<editor id="com.aptana.editor.css" name="style.css" partName="style.css" title="style.css" tooltip="C:\xampp\htdocs\abacomps\public\assets\css\style.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/xampp/htdocs/abacomps/public/assets/css/style.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="19635" selectionTopPixel="14910"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="com.aptana.snippets.ui.views.SnippetsView" partName="Snippets"/>
+<view id="com.aptana.terminal.views.terminal" partName="Terminal"/>
+<view id="com.aptana.samples.ui.SamplesView" partName="Samples"/>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="com.aptana.explorer.view" partName="App Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" GitChangedFilesFilterEnabled=""/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="com.aptana.editor.php" activePerspective="com.aptana.ui.WebPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
+<alwaysOnActionSet id="com.aptana.browser.actionSet"/>
+<alwaysOnActionSet id="com.aptana.ruby.debug.ui.RubyDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.aptana.editor.common.presentation"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.aptana.js.debug.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+<alwaysOnActionSet id="com.aptana.ui.globalActionSet"/>
+<alwaysOnActionSet id="com.aptana.terminal.actionSet"/>
+<show_view_action id="com.aptana.browser.views.webbrowser"/>
+<show_view_action id="com.aptana.explorer.view"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="com.aptana.ui.io.remoteview"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="com.aptana.samples.ui.SamplesView"/>
+<show_view_action id="com.aptana.snippets.ui.views.SnippetsView"/>
+<show_view_action id="com.aptana.terminal.views.terminal"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="com.aptana.webserver.ui.view"/>
+<new_wizard_action id="com.aptana.editor.php.NewPHPProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.NewWebProject"/>
+<new_wizard_action id="com.aptana.ruby.core.ui.rubyProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.radrails.rails.ui.projectWizard"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="com.aptana.explorer.view"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="com.aptana.terminal.views.terminal"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="com.aptana.samples.ui.SamplesView"/>
+<view id="com.aptana.snippets.ui.views.SnippetsView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="com.aptana.explorer.view" label="App Explorer"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="com.aptana.ui.io.remoteview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="882" ratioRight="294" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.19982994" ratioLeft="235" ratioRight="941" relationship="2" relative="left"/>
+<info folder="true" part="terminalArea" ratio="0.7446808" ratioLeft="560" ratioRight="192" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="com.aptana.terminal.views.terminal" label="Terminal"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@155e3ab" ratio="0.75" ratioLeft="576" ratioRight="192" relationship="4" relative="left">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="com.aptana.samples.ui.SamplesView" label="Samples"/>
+<page content="com.aptana.snippets.ui.views.SnippetsView" label="Snippets"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/xampp/htdocs/abacomps/app/views/master.blade.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/xampp/htdocs/abacomps/app/views/programs/programs.blade.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/xampp/htdocs/abacomps/app/views/programs/pricing.blade.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/xampp/htdocs/abacomps/app/routes.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/xampp/htdocs/abacomps/app/views/home.blade.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/C:/xampp/htdocs/abacomps/public/assets/css/style.css"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/xampp/htdocs/abacomps/app/views/registration.blade.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/xampp/htdocs/abacomps/app/views/contact.blade.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/xampp/htdocs/abacomps/app/routes.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/xampp/htdocs/abacomps/app/views/learning/practice.blade.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/xampp/htdocs/abacomps/app/views/learning/games/example1.blade.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/xampp/htdocs/abacomps/app/views/master.blade.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/xampp/htdocs/abacomps/app/views/registration.blade.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/C:/Users/shirges/Documents/Bryan/WebDev/WrapBootstrap/Unity/products_WB0412697/HTML/page_login.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/xampp/htdocs/abacomps/app/views/login.blade.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/C:/xampp/htdocs/abacomps/public/assets/css/style.css"/>
+</editors>
+<item historyLabel="pricing.blade.php" index="2">
+<position info="not_deleted" x="1689" y="42"/>
+</item>
+<item historyLabel="programs.blade.php" index="1">
+<position info="not_deleted" x="3000" y="0"/>
+</item>
+<item historyLabel="pricing.blade.php" index="2">
+<position info="not_deleted" x="1689" y="42"/>
+</item>
+<item historyLabel="programs.blade.php" index="1">
+<position info="not_deleted" x="3008" y="0"/>
+</item>
+<item historyLabel="home.blade.php" index="4">
+<position info="not_deleted" x="1987" y="20"/>
+</item>
+<item historyLabel="programs.blade.php" index="1">
+<position info="not_deleted" x="3011" y="0"/>
+</item>
+<item historyLabel="home.blade.php" index="4">
+<position info="not_deleted" x="1586" y="450"/>
+</item>
+<item historyLabel="style.css" index="5">
+<position info="not_deleted" x="1678" y="7"/>
+</item>
+<item historyLabel="programs.blade.php" index="1">
+<position info="not_deleted" x="2944" y="0"/>
+</item>
+<item historyLabel="style.css" index="5">
+<position info="not_deleted" x="1678" y="7"/>
+</item>
+<item historyLabel="home.blade.php" index="4">
+<position info="not_deleted" x="1586" y="450"/>
+</item>
+<item historyLabel="pricing.blade.php" index="2">
+<position info="not_deleted" x="1689" y="42"/>
+</item>
+<item historyLabel="routes.php" index="3">
+<position info="not_deleted" x="672" y="0"/>
+</item>
+<item historyLabel="registration.blade.php" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="registration.blade.php" index="6">
+<position info="not_deleted" x="889" y="0"/>
+</item>
+<item historyLabel="registration.blade.php" index="6">
+<position info="not_deleted" x="1073" y="0"/>
+</item>
+<item historyLabel="registration.blade.php" index="6">
+<position info="not_deleted" x="1803" y="0"/>
+</item>
+<item historyLabel="registration.blade.php" index="6">
+<position/>
+</item>
+<item historyLabel="registration.blade.php" index="6">
+<position info="not_deleted" x="234" y="0"/>
+</item>
+<item historyLabel="routes.php" index="3">
+<position info="not_deleted" x="672" y="0"/>
+</item>
+<item historyLabel="contact.blade.php" index="7">
+<position info="not_deleted" x="1894" y="0"/>
+</item>
+<item historyLabel="master.blade.php" index="0">
+<position info="not_deleted" x="4654" y="16"/>
+</item>
+<item historyLabel="routes.php" index="8">
+<position info="not_deleted" x="672" y="0"/>
+</item>
+<item historyLabel="routes.php" index="8">
+<position/>
+</item>
+<item historyLabel="routes.php" index="8">
+<position info="not_deleted" x="1671" y="0"/>
+</item>
+<item historyLabel="practice.blade.php" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="routes.php" index="8">
+<position info="not_deleted" x="1671" y="0"/>
+</item>
+<item historyLabel="practice.blade.php" index="9">
+<position info="not_deleted" x="1729" y="0"/>
+</item>
+<item historyLabel="example1.blade.php" index="10">
+<position info="not_deleted" x="383" y="0"/>
+</item>
+<item historyLabel="practice.blade.php" index="9">
+<position info="not_deleted" x="1769" y="0"/>
+</item>
+<item historyLabel="example1.blade.php" index="10">
+<position/>
+</item>
+<item historyLabel="practice.blade.php" index="9">
+<position info="not_deleted" x="3860" y="0"/>
+</item>
+<item historyLabel="example1.blade.php" index="10">
+<position/>
+</item>
+<item historyLabel="practice.blade.php" index="9">
+<position info="not_deleted" x="3860" y="0"/>
+</item>
+<item historyLabel="example1.blade.php" index="10">
+<position info="not_deleted" x="4289" y="0"/>
+</item>
+<item historyLabel="master.blade.php" index="11">
+<position info="not_deleted" x="7906" y="0"/>
+</item>
+<item historyLabel="registration.blade.php" index="12">
+<position info="not_deleted" x="1218" y="0"/>
+</item>
+<item historyLabel="page_login.html" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="registration.blade.php" index="12">
+<position info="not_deleted" x="789" y="0"/>
+</item>
+<item historyLabel="page_login.html" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="login.blade.php" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="login.blade.php" index="14">
+<position/>
+</item>
+<item historyLabel="login.blade.php" index="14">
+<position info="not_deleted" x="3113" y="0"/>
+</item>
+<item historyLabel="page_login.html" index="13">
+<position info="not_deleted" x="11867" y="919"/>
+</item>
+<item historyLabel="login.blade.php" index="14">
+<position info="not_deleted" x="3113" y="0"/>
+</item>
+<item historyLabel="login.blade.php" index="14">
+<position/>
+</item>
+<item historyLabel="login.blade.php" index="14">
+<position info="not_deleted" x="607" y="0"/>
+</item>
+<item historyLabel="login.blade.php" index="14">
+<position info="not_deleted" x="2143" y="0"/>
+</item>
+<item historyLabel="style.css" index="15">
+<position info="not_deleted" x="19635" y="0"/>
+</item>
+<item active="true" historyLabel="login.blade.php" index="14">
+<position info="not_deleted" x="2143" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="style.css" tooltip="C:\xampp\htdocs\abacomps\public\assets\css\style.css">
+<persistable uri="file:/C:/xampp/htdocs/abacomps/public/assets/css/style.css"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="login.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\login.blade.php">
+<persistable uri="file:/C:/xampp/htdocs/abacomps/app/views/login.blade.php"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="page_login.html" tooltip="C:\Users\shirges\Documents\Bryan\WebDev\WrapBootstrap\Unity\products_WB0412697\HTML\page_login.html">
+<persistable uri="file:/C:/Users/shirges/Documents/Bryan/WebDev/WrapBootstrap/Unity/products_WB0412697/HTML/page_login.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="registration.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\registration.blade.php">
+<persistable uri="file:/C:/xampp/htdocs/abacomps/app/views/registration.blade.php"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="example1.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\learning\games\example1.blade.php">
+<persistable uri="file:/C:/xampp/htdocs/abacomps/app/views/learning/games/example1.blade.php"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="practice.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\learning\practice.blade.php">
+<persistable uri="file:/C:/xampp/htdocs/abacomps/app/views/learning/practice.blade.php"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="contact.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\contact.blade.php">
+<persistable uri="file:/C:/xampp/htdocs/abacomps/app/views/contact.blade.php"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="home.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\home.blade.php">
+<persistable uri="file:/C:/xampp/htdocs/abacomps/app/views/home.blade.php"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="pricing.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\programs\pricing.blade.php">
+<persistable uri="file:/C:/xampp/htdocs/abacomps/app/views/programs/pricing.blade.php"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="programs.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\programs\programs.blade.php">
+<persistable uri="file:/C:/xampp/htdocs/abacomps/app/views/programs/programs.blade.php"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="about.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\about\about.blade.php">
+<persistable uri="file:/C:/xampp/htdocs/abacomps/app/views/about/about.blade.php"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="who.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\about\who.blade.php">
+<persistable uri="file:/C:/xampp/htdocs/abacomps/app/views/about/who.blade.php"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="gallery.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\about\gallery.blade.php">
+<persistable uri="file:/C:/xampp/htdocs/abacomps/app/views/about/gallery.blade.php"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="faqs.blade.php" tooltip="C:\xampp\htdocs\abacomps\app\views\about\faqs.blade.php">
+<persistable uri="file:/C:/xampp/htdocs/abacomps/app/views/about/faqs.blade.php"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="routes.php" tooltip="C:\xampp\htdocs\abacomps\app\routes.php">
+<persistable uri="file:/C:/xampp/htdocs/abacomps/app/routes.php"/>
+</file>
+</mruList>
+</workbench>

@@ -12,11 +12,10 @@ Practice Games - Abacomps
 <!--=== Breadcrumbs ===-->
 <div class="breadcrumbs margin-bottom-40">
 	<div class="container">
-        <h1 class="color-green pull-left">Practice Games</h1>
+        <h1 class="color-green pull-left">Learning Center</h1>
         <ul class="pull-right breadcrumb">
             <li><a href="{{ URL::to('/') }}">Home</a> <span class="divider">/</span></li>
-            <li><a href="{{ URL::to('learning') }}">Learning Center</a> <span class="divider">/</span></li>
-            <li class="active">Practice Games</li>
+            <li class="active">Learning Center</li>
         </ul>
     </div><!--/container-->
 </div><!--/breadcrumbs-->
@@ -29,9 +28,9 @@ Practice Games - Abacomps
             <div class="sort" id="sort">
 				<ul class="unstyled inline">
                 	<li><a href="#" class="all selected">All</a></li>
-                	<li><a href="#" class="web">Web</a></li>
-                	<li><a href="#" class="ios">iOS</a></li>
-                	<li><a href="#" class="print">Print</a></li>
+                	<li><a href="#" class="web">Lessons</a></li>
+                	<li><a href="#" class="ios">Games</a></li>
+                	<li><a href="#" class="print">Tests</a></li>
                 </ul>
             </div>
             

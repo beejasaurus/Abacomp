@@ -21,79 +21,52 @@ About Us - Abacomps
 <div class="container">		
 	<div class="row-fluid margin-bottom-30">
     	<div class="span6">
-            <p>Unify is an incredibly beautiful responsive Bootstrap Template for corporate and creative professionals. It works on all major web browsers, tablets and phone. Lorem sequat ipsum dolor lorem sit amet, consectetur adipiscing dolor elit. Unify is an incredibly beautiful responsive Bootstrap Template for It works on all major web.</p>
+    		<div class="headline"><h3>What is Abacomps?</h3></div>
+            <p>Abacomps is a child learning development program. We've designed the program to help your child advance their skills in both mathematics, computers, and general memorization and retention. </p>
+            <p>Watch your child's confidence sky-rocket as they learn to solve complex arithmetic, mentally, at <b>speeds surpassing the use of a calculator!</b></p>
+            <p>Using Abacomps, your child will improve their...</p>
             <ul class="unstyled">
-                <li><i class="icon-ok color-green"></i> Donec id elit non mi porta gravida</li>
-                <li><i class="icon-ok color-green"></i> Corporate and Creative</li>
-                <li><i class="icon-ok color-green"></i> Responsive Bootstrap Template</li>
-                <li><i class="icon-ok color-green"></i> Elit non mi porta gravida</li>
-                <li><i class="icon-ok color-green"></i> Award winning digital agency</li>
+                <li><i class="icon-asterisk color-green"></i> Focus</li>
+                <li><i class="icon-asterisk color-green"></i> Memory</li>
+                <li><i class="icon-asterisk color-green"></i> Retention</li>
+                <li><i class="icon-asterisk color-green"></i> Math Skills</li>
+                <li><i class="icon-asterisk color-green"></i> Computer Skills</li>
             </ul><br />
-
-            <!-- Blockquotes -->
             <blockquote>
-                <p>Award winning digital agency. We bring a personal and effective approach to every project we work on, which is why.</p>
-                <small>CEO Jack Bour</small>
+                <p>Abacomps is a whole brain development experience</p>
             </blockquote>
         </div>
     	<div class="span6">
-            <iframe src="http://player.vimeo.com/video/9679622" width="100%" height="327" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
+            <iframe width="100%" height="315" src="//www.youtube.com/embed/s-EKxq1oTPw" frameborder="0" allowfullscreen></iframe> 
         </div>
     </div><!--/row-fluid-->
 
-	<!-- Meer Our Team -->
-	<div class="headline"><h3>Meer Our Team</h3></div>
-    <ul class="thumbnails team">
-        <li class="span3">
-            <div class="thumbnail-style">
-                <img src="{{ asset('assets/img/others/2.jpg') }}" alt="" />
-                <h3><a>Jack Bour</a> <small>Chief Executive Officer / CEO</small></h3>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem...</p>
-                <ul class="unstyled inline">
-                	<li><a href="#"><i class="icon-facebook"></i></a></li>
-                	<li><a href="#"><i class="icon-twitter"></i></a></li>
-                	<li><a href="#"><i class="icon-google-plus"></i></a></li>
-                </ul>
-            </div>
-        </li>
-        <li class="span3">
-            <div class="thumbnail-style">
-                <img src="{{ asset('assets/img/others/7.jpg') }}" alt="" />
-                <h3><a>Kate Metus</a> <small>Project Manager</small></h3>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem...</p>
-                <ul class="unstyled inline team">
-                	<li><a href="#"><i class="icon-facebook"></i></a></li>
-                	<li><a href="#"><i class="icon-twitter"></i></a></li>
-                	<li><a href="#"><i class="icon-google-plus"></i></a></li>
-                </ul>
-            </div>
-        </li>
-        <li class="span3">
-            <div class="thumbnail-style">
-                <img src="{{ asset('assets/img/others/3.jpg') }}" alt="" />
-                <h3><a>Porta Gravida</a> <small>VP of Operations</small></h3>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem...</p>
-                <ul class="unstyled inline team">
-                	<li><a href="#"><i class="icon-facebook"></i></a></li>
-                	<li><a href="#"><i class="icon-twitter"></i></a></li>
-                	<li><a href="#"><i class="icon-google-plus"></i></a></li>
-                </ul>
-            </div>
-        </li>
-        <li class="span3">
-            <div class="thumbnail-style">
-                <img src="{{ asset('assets/img/others/6.jpg') }}" alt="" />
-                <h3><a>Donec Elit</a> <small>Director, R &amp; D Talent</small></h3>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem...</p>
-                <ul class="unstyled inline team">
-                	<li><a href="#"><i class="icon-facebook"></i></a></li>
-                	<li><a href="#"><i class="icon-twitter"></i></a></li>
-                	<li><a href="#"><i class="icon-google-plus"></i></a></li>
-                </ul>
-            </div>
-        </li>
-    </ul><!--/thumbnails-->
-	<!-- //End Meer Our Team -->
+	
+   <div class="row-fluid margin-bottom-30">
+        <div class="span6 text-center">
+            <p><img src="{{ asset('assets/img/tomoecloseup.jpg') }}" width="75%" class="img-polaroid"></p>
+            <p><small>The soroban, a Japanese version of the abacus.</small></p>
+        </div>
+        
+        <div class="span6">
+        	<div class="headline"><h3>How does it work?</h3></div>
+        	<p>Try to add 5 and 7 without writing anything down. Did you do it? This is how a child using the Abacomps method does it.</p>
+        	<p><a href="http://news.stanford.edu/news/2011/august/abacus-mental-math-080311.html">Stanford researcher explores whether language is the only way to represent numbers</a></p>
+        </div>
+	</div>
+	
+	<div class="row-fluid margin-bottom-30">
+		<div class="span6">
+            <div class="headline"><h3>Who uses it?</h3></div>
+            <p>China, Korea, Singapore, and Japan are among the leaders in teaching the Abacus. And it shows, in 2008, these 5 countries were the top scorers in math among eighth grade students.</p>
+            <p>See for yourself: <a href="http://www.all4ed.org/files/Facts_For_Education_Adv_Jan2009.pdf">International Comparison</a></p>
+        </div>
+        
+        <div class="span6">
+        	<p><img src="{{ asset('assets/img/student_performance_graph.png') }}" width="100%" class="img-polaroid"></p>
+        	
+        </div>
+	</div>
 
 </div><!--/container-->		
 <!--=== End Content Part ===-->

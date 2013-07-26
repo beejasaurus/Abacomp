@@ -15,7 +15,7 @@
     <!-- CSS Global Compulsory-->
     {{ HTML::style('assets/plugins/bootstrap/css/bootstrap.min.css') }}
     {{ HTML::style('assets/css/style.css') }}
-    {{ HTML::style('assets/css/headers/header1.css') }}
+    {{ HTML::style('assets/css/headers/header2.css') }}
     {{ HTML::style('assets/plugins/bootstrap/css/bootstrap-responsive.min.css') }}
     {{ HTML::style('assets/css/style_responsive.css') }}
     <link rel="shortcut icon" href="{{ asset('favicon.ico') }}">        
@@ -33,27 +33,27 @@
 
 <!--=== Top ===-->    
 <div class="top">
-    <div class="container">         
-        <ul class="loginbar pull-right">
-            <li><a href="mailto:abacomps@gmail.com"><i class="icon-envelope-alt"></i> abacomps@gmail.com</a></li>   
-            <li class="devider">&nbsp;</li>
-            <li><a><i class="icon-phone-sign"></i> 301 770 1007</a></li>  
-            <li class="devider">&nbsp;</li>
-            <li><a href="{{ URL::to('login') }}" class="login-btn">Login</a></li>   
-        </ul>
-    </div>      
+    <div class="container">                 
+        <div class="row-fluid">
+            <ul class="loginbar inline">
+                <li><a href="mailto:abacomps@gmail.com"><i class="icon-envelope-alt"></i> abacomps@gmail.com</a></li> 
+                <li><a><i class="icon-phone-sign"></i> 301 770 1007</a></li>
+                <li><a href="{{ URL::to('login')}}"><i class="icon-user"></i> LOGIN</a></li> 
+            </ul>
+        </div>                        
+    </div><!--/container-->     
 </div><!--/top-->
-<!--=== End Top ===-->    
+<!--=== End Top ===-->     
 
 <!--=== Header ===-->
 <div class="header">               
     <div class="container"> 
         <!-- Logo -->       
         <div class="logo">                                             
-            <a href="{{ URL::to('/') }}"><img id="logo-header" src="{{ asset('assets/img/abacomps_logo1.png') }}" alt="Logo"></a>
+            <a href="{{ URL::to('/') }}"><img id="logo-header" src="{{ asset('assets/img/abacomps_logo5.png') }}" alt="Logo"></a>
         </div><!-- /logo -->        
                                     
-        <!-- Menu -->       
+ <!-- Menu -->       
         <div class="navbar">                                
             <div class="navbar-inner">                                  
                 <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -62,7 +62,7 @@
                     <span class="icon-bar"></span>
                 </a><!-- /nav-collapse -->                                  
                 <div class="nav-collapse collapse">                                     
-                    <ul class="nav top-2">
+                    <ul class="nav">
                         <li {{ Request::is('/') ? 'class="active"' : '' }}>
                             {{ HTML::link('/', 'Home') }}
                         </li>
@@ -71,8 +71,8 @@
                                 <b class="caret"></b>                            
                             </a>
                             <ul class="dropdown-menu">
-                                <li>{{ HTML::link('about', 'About Us') }}</li>
-                                <li>{{ HTML::link('about/faqs', 'FAQs') }}</li>
+                                <li>{{ HTML::link('about', 'What is Abacomps?') }}</li>
+                                <li>{{ HTML::link('about/who', 'Who are we?') }}</li>
                                 <li>{{ HTML::link('about/gallery', 'Gallery') }}</li>
                                 
                                 
@@ -109,19 +109,19 @@
                         <li {{ Request::is('contact*') ? 'class="active"' : '' }}>
                             {{ HTML::link('contact', 'Contact') }}
                         </li>
-                        <li><a class="search"><i class="icon-search search-btn"></i></a></li>                               
+                        <li><a class="search search-nav"><i class="icon-search search-btn"></i></a></li>                                
                     </ul>
-                    <div class="search-open">
+                    <div class="search-open search-open-inner">
                         <div class="input-append">
                             <form>
                                 <input type="text" class="span3" placeholder="Search" />
-                                <button type="submit" class="btn-u">Go</button>
+                                <button type="submit" class="btn-u">Search</button>
                             </form>
                         </div>
                     </div>
                 </div><!-- /nav-collapse -->                                
             </div><!-- /navbar-inner -->
-        </div><!-- /navbar -->                          
+        </div><!-- /navbar -->                           
     </div><!-- /container -->               
 </div><!--/header -->      
 <!--=== End Header ===-->
@@ -141,38 +141,25 @@
 				<p class="margin-bottom-25">Abacomps is a mental math program that teaches children between 5 and 14 years old to visualize an Abacus counting frame to perform calculations.</p>	
 
 	            <!-- Monthly Newsletter -->
-		        <div class="headline"><h3>Monthly Newsletter</h3></div>	
-				<p>Subscribe to our newsletter and stay up to date with the latest news and deals!</p>
+		        <div class="headline"><h3>More Info</h3></div>	
+				<p>Want more information? Just send us an email and we will get back to you.</p>
 				<form class="form-inline">
 					<div class="input-append">
 						<input type="text" placeholder="Email Address" class="input-medium">
-						<button class="btn-u">Subscribe</button>
+						<button class="btn-u"><i class="icon-envelope"></i></button>
 					</div>
 				</form>							
 			</div><!--/span4-->	
 			
 			<div class="span4">
-                <div class="posts">
-                    <div class="headline"><h3>Recent Events</h3></div>
-                    <dl class="dl-horizontal">
-                        <dt><a href="#"><img src="{{ asset('assets/img/sliders/elastislide/6.jpg') }}" alt="" /></a></dt>
-                        <dd>
-                            <p><a href="#">Anim moon officia Unify is an incredibly beautiful responsive Bootstrap Template</a></p> 
-                        </dd>
-                    </dl>
-                    <dl class="dl-horizontal">
-                    <dt><a href="#"><img src="{{ asset('assets/img/sliders/elastislide/10.jpg') }}" alt="" /></a></dt>
-                        <dd>
-                            <p><a href="#">Anim moon officia Unify is an incredibly beautiful responsive Bootstrap Template</a></p> 
-                        </dd>
-                    </dl>
-                    <dl class="dl-horizontal">
-                    <dt><a href="#"><img src="{{ asset('assets/img/sliders/elastislide/11.jpg') }}" alt="" /></a></dt>
-                        <dd>
-                            <p><a href="#">Anim moon officia Unify is an incredibly beautiful responsive Bootstrap Template</a></p> 
-                        </dd>
-                    </dl>
-                </div>
+				<!-- Stay Connected -->
+                <div class="headline"><h3>Stay Connected</h3></div>	
+                <p class="margin-bottom-25">
+                <ul class="social-icons">
+                    <li><a href="#" data-original-title="Facebook" class="social_facebook"></a></li>
+                    <li><a href="#" data-original-title="Goole Plus" class="social_googleplus"></a></li>
+                </ul>
+                </p>
 			</div><!--/span4-->
 
 			<div class="span4">
@@ -182,20 +169,11 @@
 					5244 Randolph Road<br />
 					Rockville, MD 20852 <br />
 					Phone: (301) 770-1007 <br />
-					Email: <a href="mailto:RockvilleTKD@gmail.com" class="">RockvilleTKD@gmail.com</a>
+					Email: <a href="mailto:RockvilleTKD@gmail.com" class="">AbacompsMentalMath@gmail.com</a>
                 </address>
 
-                <!-- Stay Connected -->
-		        <div class="headline"><h3>Stay Connected</h3></div>	
-                <ul class="social-icons">
-                    <li><a href="#" data-original-title="Feed" class="social_rss"></a></li>
-                    <li><a href="#" data-original-title="Facebook" class="social_facebook"></a></li>
-                    <li><a href="#" data-original-title="Twitter" class="social_twitter"></a></li>
-                    <li><a href="#" data-original-title="Goole Plus" class="social_googleplus"></a></li>
-                    <li><a href="#" data-original-title="Pinterest" class="social_pintrest"></a></li>
-                    <li><a href="#" data-original-title="Linkedin" class="social_linkedin"></a></li>
-                    <li><a href="#" data-original-title="Vimeo" class="social_vimeo"></a></li>
-                </ul>
+                
+		        
 			</div><!--/span4-->
 		</div><!--/row-fluid-->	
 	</div><!--/container-->	
@@ -207,7 +185,7 @@
 	<div class="container">
 		<div class="row-fluid">
 			<div class="span8">						
-	            <p>2013 &copy; Abacomps. ALL Rights Reserved. <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
+	            <p>2013 &copy; Abacomps. ALL Rights Reserved.</p>
 			</div>
 			<div class="span4">	
 				<a href="{{ URL::to('/') }}"><img id="logo-footer" src="{{ asset('assets/img/abacomps_logo2.png') }}" class="pull-right" alt="" /></a>

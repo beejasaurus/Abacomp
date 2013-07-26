@@ -1004,7 +1004,7 @@ blockquote:hover {
 /*Registration*/
 .reg-page {
 	min-width:30%;
-	max-width:30%;
+	/*max-width:30%;*/
 	padding:30px 50px 30px;
 }
 .reg-page h3 {
@@ -1014,7 +1014,7 @@ blockquote:hover {
 /*Login*/
 .login-page {
 	min-width:25%;
-	max-width:25%;
+	/*max-width:25%;*/
 	padding:35px 30px 30px;
 }
 .login-page h3 {

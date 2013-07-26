@@ -27,7 +27,7 @@ Contact Us - Abacomps
 	<div class="row-fluid">
 		<div class="span9">
             <div class="headline"><h3>Send Us a Message</h3></div>
-            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas feugiat. Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet, consectetur adipiscing elit landitiis.</p><br />
+            <p>We appreciate your messages. Either send us an email at <a href="mailto:abacompsmentalmath@gmail.com">AbacompsMentalMath@gmail.com</a> or fill in your Name, email address, and your message below.</p><br />
 			<form>
                 <label>Name</label>
                 <input type="text" class="span7 border-radius-none" />
@@ -44,7 +44,7 @@ Contact Us - Abacomps
             <div class="headline"><h3>Contacts</h3></div>
             <ul class="unstyled who margin-bottom-20">
                 <li><a href="#"><i class="icon-home"></i>5244 Randolph Road, Rockville, MD 20852</a></li>
-                <li><a href="#"><i class="icon-envelope-alt"></i>RockvilleTKD@gmail.com</a></li>
+                <li><a href="#"><i class="icon-envelope-alt"></i>AbacompsMentalMath@gmail.com</a></li>
                 <li><a href="#"><i class="icon-phone-sign"></i>(301) 770-1007</a></li>
                 <li><a href="#"><i class="icon-globe"></i>http://www.abacomps.com</a></li>
                 <li><a href="#"><i class="icon-globe"></i>http://www.rockvilletkd.com</a></li>
