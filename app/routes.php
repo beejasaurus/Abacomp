@@ -66,11 +66,6 @@ Route::get('learning/practice', function()
 	return View::make('learning/practice');
 });
 
-Route::get('learning/practice/game1', function()
-{
-	return View::make('learning/games/example1');
-});
-
 Route::get('learning/tests', function()
 {
 	return View::make('learning/tests');
@@ -92,3 +87,9 @@ Route::get('login', function()
 });
 
 
+/* *** GAMES *** */
+
+Route::get('learning/games/add_level1', function()
+{
+	return View::make('learning/games/add_level1');
+});

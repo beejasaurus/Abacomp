@@ -5,9 +5,35 @@ Abacomps
 @endsection
 
 @section('slider')
-<div id="headerIMG">
-	<img src="{{ asset('assets/img/header.png') }}" alt="Header">
-</div>
+<!--=== Slider ===-->
+<div class="slider-inner">
+    <div id="da-slider" class="da-slider">
+        <div class="da-slide">
+            <h2><i>UNIQUE</i> <br /> <i>&amp; FUN</i> <br /> <i>LEARNING PROGRAM</i></h2>
+            <p><i>Afterschool development program</i> <br /> <i>that uses an Abacus</i> <br /> <i>to do mental math</i></p>
+            <div class="da-img"><img src="assets/img/178.jpg" alt="" /></div>
+        </div>
+        <div class="da-slide">
+            <h2><i>AFTER SCHOOL PROGRAMS</i> <br /> <i>SUMMER CAMPS</i> <br /> <i>&amp; WEEKLY PROGRAMS</i></h2>
+            <p><i>Learn &amp; socialize</i> <br /> <i>safe &amp; constructive environment</i></p>
+            <div class="da-img span6">
+            	<div class="span6">
+					<iframe width="560" height="315" src="//www.youtube.com/embed/4uOxOgm5jQ4" frameborder="0" allowfullscreen></iframe> 
+ 				</div>
+            </div>
+        </div>
+        <div class="da-slide">
+            <h2><i>FOCUSING</i> <br /> <i>THE MIND</i> </h2>
+            <p><i>Learn to focus your child's mind</i> <br /> <i>as they grow</i></p>
+            <div class="da-img"><img src="assets/img/200.jpg" alt="image01" /></div>
+        </div>
+        <nav class="da-arrows">
+            <span class="da-arrows-prev"></span>
+            <span class="da-arrows-next"></span>		
+        </nav>
+    </div><!--/da-slider-->
+</div><!--/slider-->
+<!--=== End Slider ===-->
 @stop
 
 @section('body')
@@ -15,11 +41,10 @@ Abacomps
 <div class="row-fluid purchase margin-bottom-30">
     <div class="container">
 		<div class="span9">
-            <span>Unlock your child's full potential with Abacus Mental Math! </span>
-            <p>ABACOMPS is designed to help your child develop their Math, Computer, Memorization and Retention abilities.</p>
+            <span>Unlock the full potential of your child's mind with the Abacus!</span>
+            <p>The ABACOMPS program is designed to help your child advance their skills in both Mathematics, Computers, and general Memorization and Retention.</p>
         </div>
-        
-        <a href="#" class="btn-buy hover-effect">Sign up now</a>       
+        <a href="#" class="btn-buy hover-effect">Sign up now</a>
     </div>
 </div><!--/row-fluid-->
 <!-- End Purchase Block -->

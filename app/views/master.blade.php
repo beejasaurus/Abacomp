@@ -103,9 +103,13 @@
                             </ul>
                             <b class="caret-out"></b>                        
                         </li>
+                        <!--
+                        	
                         <li {{ Request::is('store*') ? 'class="active"' : '' }}>
                             {{ HTML::link('store', 'Store') }}
                         </li>
+                        
+                        -->
                         <li {{ Request::is('contact*') ? 'class="active"' : '' }}>
                             {{ HTML::link('contact', 'Contact') }}
                         </li>
@@ -203,7 +207,6 @@
 <script type="text/javascript" src="{{ asset('assets/plugins/flexslider/jquery.flexslider-min.js') }}"></script>
 <script type="text/javascript" src="{{ asset('assets/plugins/parallax-slider/js/modernizr.js') }}"></script>
 <script type="text/javascript" src="{{ asset('assets/plugins/parallax-slider/js/jquery.cslider.js') }}"></script> 
-<script type="text/javascript" src="{{ asset('assets/plugins/back-to-top.js') }}"></script>
 @yield('js_items')
 <!-- JS Page Level -->           
 <script type="text/javascript" src="{{ asset('assets/js/app.js') }}"></script>

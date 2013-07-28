@@ -20,6 +20,26 @@ Login - Abacomps
 	<div class="container">		
 		<div class="row-fluid margin-bottom-10">
 			<div class="span6">
+            	<form class="log-page">
+		            <h3>Login to your account</h3>    
+		            <div class="input-prepend">
+		                <span class="add-on"><i class="icon-user"></i></span>
+		                <input class="input-xlarge" type="text" placeholder="Username">
+		            </div>
+		            <div class="input-prepend">
+		                <span class="add-on"><i class="icon-lock"></i></span>
+		                <input class="input-xlarge" type="text" placeholder="Username">
+		            </div>
+		            <div class="controls form-inline">
+		                <label class="checkbox"><input type="checkbox" /> Stay Signed in</label>
+		                <button class="btn-u pull-right" type="submit">Login</button>
+		            </div>
+		            <hr />
+		            <h4>Forgot your Password?</h4>
+		            <p><a class="color-green" href="#">Click here</a> to reset</p>
+		        </form>
+            </div>
+			<div class="span6">
 	        	<form class="reg-page">
 	            	<h3>Register a new online account</h3>
 	                <div class="controls">    
@@ -48,26 +68,7 @@ Login - Abacomps
 					<p>Already Signed Up? Click <a href="page_login.html" class="color-green">Sign In</a> to login your account.</p>
 	            </form>
             </div>
-            <div class="span6">
-            	<form class="log-page">
-		            <h3>Login to your account</h3>    
-		            <div class="input-prepend">
-		                <span class="add-on"><i class="icon-user"></i></span>
-		                <input class="input-xlarge" type="text" placeholder="Username">
-		            </div>
-		            <div class="input-prepend">
-		                <span class="add-on"><i class="icon-lock"></i></span>
-		                <input class="input-xlarge" type="text" placeholder="Username">
-		            </div>
-		            <div class="controls form-inline">
-		                <label class="checkbox"><input type="checkbox" /> Stay Signed in</label>
-		                <button class="btn-u pull-right" type="submit">Login</button>
-		            </div>
-		            <hr />
-		            <h4>Forget your Password ?</h4>
-		            <p>no worries, <a class="color-green" href="#">click here</a> to reset your password.</p>
-		        </form>
-            </div>
+            
         </div><!--/row-fluid-->
 	</div><!--/container-->		
 </div><!--/body-->

@@ -743,6 +743,16 @@ blockquote:hover {
 	border-top:solid 2px #72c02c; 
 }
 
+#headerImage {
+	border-bottom:2px solid #ddd;
+	width: 100%;
+}
+
+#addition {
+	overflow: auto;
+	height:270px;
+}
+
 /*Home Page "Options"
 ------------------------------------*/
 /*Right Sidebar*/

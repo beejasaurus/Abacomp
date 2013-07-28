@@ -28,148 +28,32 @@ Practice Games - Abacomps
             <div class="sort" id="sort">
 				<ul class="unstyled inline">
                 	<li><a href="#" class="all selected">All</a></li>
-                	<li><a href="#" class="web">Lessons</a></li>
-                	<li><a href="#" class="ios">Games</a></li>
-                	<li><a href="#" class="print">Tests</a></li>
+                	<li><a href="#" class="lessons">Lessons</a></li>
+                	<li><a href="#" class="games">Games</a></li>
+                	<li><a href="#" class="tests">Tests</a></li>
                 </ul>
             </div>
             
             <ul class="portfolio recent-work clearfix"> 
-                <li data-id="id-1" class="ios">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/2.jpg') }}" alt="" /></em>
+                <li data-id="lesson1" class="lessons">
+                    <a href="#">
+                    	<em class="overflow-hidden"><img src="{{ asset('assets/img/soroban.png') }}" alt="" /></em>
                         <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
+                            <strong>Lesson 1</strong>
+                            <i>Just Learning the Basics</i>
                         </span>
                     </a>
                 </li>
-                <li data-id="id-2" class="print">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/3.jpg') }}" alt="" /></em>
+                <li data-id="add_level1" class="games">
+                    <a href="{{ URL::to('learning/games/add_level1') }}">
+                    	<em class="overflow-hidden"><img src="{{ asset('assets/img/games/add_level1/MtFuji_Display.png') }}" alt="Lesson 1 - Learning the Soroban" /></em>
                         <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
+                            <strong>Addition - Level 1</strong>
+                            <i>2 rows, up to 5 digits</i>
                         </span>
                     </a>
                 </li>
-                <li data-id="id-3" class="ios">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/4.jpg') }}" alt="" /></em>
-                        <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
-                        </span>
-                    </a>
-                </li>
-                <li data-id="id-4" class="print">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/5.jpg') }}" alt="" /></em>
-                        <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
-                        </span>
-                    </a>
-                </li>
-                <li data-id="id-5" class="web">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/6.jpg') }}" alt="" /></em>
-                        <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
-                        </span>
-                    </a>
-                </li>
-                <li data-id="id-6" class="web">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/7.jpg') }}" alt="" /></em>
-                        <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
-                        </span>
-                    </a>
-                </li>
-                <li data-id="id-7" class="print">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/8.jpg') }}" alt="" /></em>
-                        <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
-                        </span>
-                    </a>
-                </li>
-                <li data-id="id-8" class="web">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/2.jpg') }}" alt="" /></em>
-                        <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
-                        </span>
-                    </a>
-                </li>
-                <li data-id="id-9" class="ios">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/9.jpg') }}" alt="" /></em>
-                        <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
-                        </span>
-                    </a>
-                </li>
-                <li data-id="id-10" class="ios">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/10.jpg') }}" alt="" /></em>
-                        <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
-                        </span>
-                    </a>
-                </li>
-                <li data-id="id-11" class="web">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/5.jpg') }}" alt="" /></em>
-                        <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
-                        </span>
-                    </a>
-                </li>
-                <li data-id="id-12" class="web">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/3.jpg') }}" alt="" /></em>
-                        <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
-                        </span>
-                    </a>
-                </li>
-                <li data-id="id-13" class="ios">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/6.jpg') }}" alt="" /></em>
-                        <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
-                        </span>
-                    </a>
-                </li>
-                <li data-id="id-14" class="web">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/9.jpg') }}" alt="" /></em>
-                        <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
-                        </span>
-                    </a>
-                </li>
-                <li data-id="id-15" class="web">
-                    <a href="{{ URL::to('learning/practice/game1') }}">
-                    	<em class="overflow-hidden"><img src="{{ asset('assets/plugins/portfolioSorting/img/7.jpg') }}" alt="" /></em>
-                        <span>
-                            <strong>Happy New Year</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
-                        </span>
-                    </a>
-                </li>
+                
             </ul>
         </div>                
     </div><!--/row-fluid-->         
